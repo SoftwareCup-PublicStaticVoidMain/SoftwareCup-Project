@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SoftwareCup-Project.iml" filepath="$PROJECT_DIR$/SoftwareCup-Project.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SoftwareCupProject-backend/SoftwareCupProject-backend.iml" filepath="$PROJECT_DIR$/SoftwareCupProject-backend/SoftwareCupProject-backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/SoftwareCupProject-frontend/SoftwareCupProject-frontend.iml" filepath="$PROJECT_DIR$/SoftwareCupProject-frontend/SoftwareCupProject-frontend.iml" />
     </modules>
   </component>
